@@ -1,8 +1,8 @@
 {
-    "name": "zaitsev-adnrey/dbhosts",
+    "name": "zaitsev-adnrey/wp-backups",
     "description": "",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/zaitsev-adnrey/dbhosts",
+    "homepage": "https://github.com/zaitsev-adnrey/wp-backups",
     "license": "MIT",
     "authors": [],
     "minimum-stability": "dev",
