@@ -1,8 +1,8 @@
 {
-    "name": "zaitsev-adnrey/wp-backups",
+    "name": "zaitsev-adnrey/wp-backup",
     "description": "",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/zaitsev-adnrey/wp-backups",
+    "homepage": "https://github.com/zaitsev-adnrey/wp-backup",
     "license": "MIT",
     "authors": [],
     "minimum-stability": "dev",
