@@ -1,0 +1,13 @@
+{
+    "name": "zaitsev-adnrey/dbhosts",
+    "description": "",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/zaitsev-adnrey/dbhosts",
+    "license": "MIT",
+    "authors": [],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "files": [ "command.php" ]
+    }
+}
